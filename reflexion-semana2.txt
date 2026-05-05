@@ -1,0 +1,3 @@
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+respuesta: La terminal es importante para un desarrollador porque es la forma más rápida y directa de controlar un proyecto: te permite navegar, crear y organizar archivos en segundos, usar herramientas esenciales como Git, npm o Docker que solo funcionan por comandos, automatizar tareas repetitivas con scripts, y trabajar en servidores que no tienen interfaz gráfica. Sin terminal no puedes clonar repositorios, instalar dependencias, correr tu proyecto ni desplegarlo a producción. Es el "idioma nativo" para tener control total del código.
+
